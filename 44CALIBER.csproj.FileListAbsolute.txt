@@ -1,0 +1,7 @@
+C:\Users\kulba\Downloads\44CALIBER-main\44CALIBER-main\44CALIBER\build\debug\Insidious.exe.config
+C:\Users\kulba\Downloads\44CALIBER-main\44CALIBER-main\44CALIBER\build\debug\Insidious.exe
+C:\Users\kulba\Downloads\44CALIBER-main\44CALIBER-main\44CALIBER\build\debug\Insidious.pdb
+C:\Users\kulba\Downloads\44CALIBER-main\44CALIBER-main\44CALIBER\obj\Debug\44CALIBER.csproj.AssemblyReference.cache
+C:\Users\kulba\Downloads\44CALIBER-main\44CALIBER-main\44CALIBER\obj\Debug\44CALIBER.csproj.CoreCompileInputs.cache
+C:\Users\kulba\Downloads\44CALIBER-main\44CALIBER-main\44CALIBER\obj\Debug\Insidious.exe
+C:\Users\kulba\Downloads\44CALIBER-main\44CALIBER-main\44CALIBER\obj\Debug\Insidious.pdb
